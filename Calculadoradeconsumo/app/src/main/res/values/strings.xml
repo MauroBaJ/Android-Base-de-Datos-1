@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora de consumo</string>
+    
+    <string-array name="tarifas">
+        <item> --Tarifa--</item>
+        <item>  1   </item>
+        <item>  1A  </item>
+        <item>  1B  </item>
+        <item>  1C  </item>
+        <item>  1D  </item>
+        <item>  1E  </item>
+        <item>  1F  </item>
+        <item>  DAC  </item>
+    </string-array>
+</resources>
